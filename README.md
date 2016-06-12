@@ -41,3 +41,5 @@ Modaal是一个创建弹出窗口的jQuery插件。提供丰富的功能。
 * vex  
 一个很小的jQuery 插件，可以实现3D动效的弹出对话框堆叠效果。压缩后只有2kb，所以不会给项目造成任何负担。有多个主题，你也可以自己添加自定义效果。
 <http://github.hubspot.com/vex/docs/welcome/>
+* atrament.js  
+网页绘画板 <https://github.com/jakubfiala/atrament.js>
